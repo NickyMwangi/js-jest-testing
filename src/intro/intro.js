@@ -9,4 +9,10 @@ const FizzBuzz = (n) => {
   return n.toString();
 };
 
-module.exports = { max, FizzBuzz };
+const Factorial = (n) => {
+  if (n < 0) return undefined;
+  if (n === 0 || n === 1) return 1;
+  return n * Factorial(n - 1);
+};
+
+module.exports = { max, FizzBuzz, Factorial };
