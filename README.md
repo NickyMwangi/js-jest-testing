@@ -1,4 +1,4 @@
-The purpose of this project is to understand unit testing using **JEST**. The examples show are for understanding unit testing and how to apply it in an application.
+The purpose of this project is to understand unit testing using **JEST**. The examples shown are for understanding unit testing and how to apply it in a real life application.
 
 # What is unit testing
 
